@@ -16,10 +16,6 @@ export default {
           gray: 'rgb(179, 179, 179)', // #b3b3b3
         }
       },
-      fontFamily: {
-        Robo: ['Roboto', 'sans-serif'],
-        Rubik: ['Rubik', 'sans-serif'],
-      },
     },
   },
   plugins: [],
